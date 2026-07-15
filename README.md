@@ -1,7 +1,3 @@
----
-tags: [overthewire, bandit, index]
-aliases: [Bandit, OTW Bandit]
----
 ```
 ┌──(bandit@labs)-[~]
 └─$ ssh bandit0@bandit.labs.overthewire.org -p 2220
